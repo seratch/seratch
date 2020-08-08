@@ -1,6 +1,5 @@
 👋 I’m an active maintainer of [@SlackAPI](http://github.com/slackapi) open source projects! I'm mainly working on the Python SDKs ([slackclient](https://github.com/slackapi/python-slackclient), [slackeventsapi](https://github.com/slackapi/python-slack-events-api)), [the Java SDK](https://github.com/slackapi/java-slack-sdk) and [Bolt for JS](https://github.com/slackapi/bolt-js).
-
-Also, I've been sharing small pieces of Slack app examples such as [bolt-starter](https://github.com/seratch/bolt-starter), [bolt-starter-ts](https://github.com/seratch/bolt-starter-ts), [DeepL integration app](https://github.com/seratch/deepl-for-slack), [New Relic integration app](https://github.com/seratch/new-relic-dashboard-in-slack), and [so on](https://github.com/seratch?tab=repositories&q=slack&type=source).
+I've been sharing small pieces of Slack app examples such as [bolt-starter](https://github.com/seratch/bolt-starter), [bolt-starter-ts](https://github.com/seratch/bolt-starter-ts), [DeepL integration app](https://github.com/seratch/deepl-for-slack), [New Relic integration app](https://github.com/seratch/new-relic-dashboard-in-slack), and [so on](https://github.com/seratch?tab=repositories&q=slack&type=source).
 
 Also, as I'm a big fan of [@Scala](https://github.com/scala), I started and have been running several Scala OSS projects such as [@ScalikeJDBC](http://github.com/scalikejdbc) [@Skinny-Framework](https://github.com/skinny-framework), and [AWScala](https://github.com/seratch/AWScala).
 
