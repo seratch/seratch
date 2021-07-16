@@ -1,4 +1,4 @@
-👋 I’m an active maintainer of [@SlackAPI](http://github.com/slackapi) open-source projects! Also, I've been sharing small pieces of Slack app examples:
+👋 I am a maintainer of all the [@SlackAPI](http://github.com/slackapi) open-source projects! Also, I've been sharing small pieces of Slack app examples:
 * [Simple Bolt Project Template](https://github.com/seratch/bolt-starter)
 * [Simple Bolt Project Template in TypeScript](https://github.com/seratch/bolt-starter-ts)
 * [DeepL API Integration App](https://github.com/seratch/deepl-for-slack)
